@@ -10,7 +10,7 @@
 
 Sou um desenvolvedor Full Stack com interesse em criar soluções úteis, bem estruturadas e com boa experiência para quem usa. Tenho experiência com desenvolvimento web, automações, integrações, sistemas corporativos e bancos de dados.
 
-Engenharia da Computação, com conclusão em junho de 2026. Sigo evoluindo em projetos que conectam front-end, back-end, dados e regras de negócio.
+Engenharia da Computação. Sigo evoluindo em projetos que conectam front-end, back-end, dados e regras de negócio.
 
 ## Tecnologias
 
