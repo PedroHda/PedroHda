@@ -44,8 +44,12 @@ Engenharia da Computação, com conclusão em junho de 2026. Sigo evoluindo em p
 ## GitHub
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PedroHda&show_icons=true&count_private=true&hide_border=true&title_color=BF1818&icon_color=BF1818&text_color=c9d1d9&bg_color=0d1117" alt="Estatisticas do GitHub de Pedro Henrique" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHda&layout=compact&hide_border=true&title_color=3D57CA&text_color=fff&bg_color=0d1117" alt="Linguagens mais usadas por Pedro Henrique" />
+  <img width="49%" height="195px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PedroHda&theme=github_dark" alt="Resumo do GitHub de Pedro Henrique" />
+  <img width="49%" height="195px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PedroHda&theme=github_dark" alt="Linguagens por repositorio de Pedro Henrique" />
+</div>
+
+<div align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroHda&theme=github_dark" alt="Detalhes de contribuicoes de Pedro Henrique" />
 </div>
 
 <br>
