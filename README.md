@@ -1,74 +1,128 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1233C5&height=120&section=header"/>
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/header-mobile.svg" />
+    <img src="./assets/header.svg" width="100%" alt="Pedro Domiciano — Desenvolvedor Full Stack. Web, APIs e automação para engenharia." />
+  </picture>
+</p>
 
-<div align="center">
+<p align="center">
+  <strong>Transformo regras de negócio em software útil, da interface à automação.</strong><br />
+  React e TypeScript na experiência. C# e .NET nas soluções. Dados conectando tudo.
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=1233C5&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+eu+sou+Pedro+Henrique;Desenvolvedor+Full+Stack;Engenharia+da+Computa%C3%A7%C3%A3o+%7C+conclus%C3%A3o+em+junho%2F2026;Back-end%2C+Front-end+e+Bancos+de+Dados;Sempre+aprendendo+e+construindo+solu%C3%A7%C3%B5es)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://pedrodomiciano.netlify.app"><img src="https://img.shields.io/badge/Ver_portf%C3%B3lio-2563EB?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Visitar meu portfólio" /></a>
+  <a href="https://www.linkedin.com/in/pedro-domiciano-ab2339160/"><img src="https://img.shields.io/badge/LinkedIn-172033?style=for-the-badge" alt="Conectar no LinkedIn" /></a>
+  <a href="mailto:pedroh.domic@gmail.com"><img src="https://img.shields.io/badge/Email-172033?style=for-the-badge&amp;logo=gmail&amp;logoColor=38BDF8" alt="Enviar um email" /></a>
+</p>
 
-</div>
+<p align="center">
+  <a href="#sobre-mim">Sobre mim</a> &nbsp; · &nbsp;
+  <a href="#tecnologias">Tecnologias</a> &nbsp; · &nbsp;
+  <a href="#projetos-em-destaque">Projetos</a> &nbsp; · &nbsp;
+  <a href="#experiência">Experiência</a> &nbsp; · &nbsp;
+  <a href="#github-em-números">GitHub</a>
+</p>
 
 ## Sobre mim
 
-Sou um desenvolvedor Full Stack com interesse em criar soluções úteis, bem estruturadas e com boa experiência para quem usa. Tenho experiência com desenvolvimento web, automações, integrações, sistemas corporativos e bancos de dados.
+Sou **Pedro Domiciano**, desenvolvedor Full Stack em **São José dos Campos, SP**, com formação em **Engenharia da Computação pela UNIVAP, concluída em 2026**. Minha trajetória passa por plataformas web, aplicativos, integrações e ferramentas que apoiam o trabalho de engenharia.
 
-Engenharia da Computação. Sigo evoluindo em projetos que conectam front-end, back-end, dados e regras de negócio.
+Gosto de entender o problema por trás de uma demanda, organizar suas regras e construir uma solução clara para quem vai usá-la. No dia a dia, isso envolve desenvolver interfaces, criar APIs REST, trabalhar com bancos SQL e evoluir sistemas legados.
+
+- **Web e produto:** interfaces com React e TypeScript, atenção à usabilidade e evolução de funcionalidades.
+- **Back-end e dados:** C#, .NET, APIs REST, integrações e regras de negócio.
+- **Engenharia e automação:** ferramentas desktop, CATIA V5 e integrações via API COM+.
+- **Projetos próprios:** aplicações para Windows e Android, de leitura e finanças a compras e planejamento.
 
 ## Tecnologias
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/React-0B1220?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-0B1220?style=for-the-badge&amp;logo=typescript&amp;logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/C%23-0B1220?style=for-the-badge" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-0B1220?style=for-the-badge&amp;logo=dotnet&amp;logoColor=A78BFA" alt=".NET" />
+  <img src="https://img.shields.io/badge/Python-0B1220?style=for-the-badge&amp;logo=python&amp;logoColor=FACC15" alt="Python" />
+  <img src="https://img.shields.io/badge/Flutter-0B1220?style=for-the-badge&amp;logo=flutter&amp;logoColor=54C5F8" alt="Flutter" />
+</p>
 
-### Linguagens e Front-end
+| Área | Tecnologias e ferramentas | Aplicação |
+| --- | --- | --- |
+| **Front-end** | React, Next.js, TypeScript, JavaScript, HTML e CSS | Interfaces web, navegação e experiência do usuário |
+| **Back-end** | C#, .NET, Python, Java e VB.NET | APIs REST, integrações e sistemas corporativos |
+| **Desktop e mobile** | Windows Forms, .NET MAUI, Flutter e Dart | Aplicativos para Windows e Android |
+| **Automação** | Python, VBA, CATIA V5 e API COM+ | Ferramentas de apoio à engenharia e evolução de legados |
+| **Bancos de dados** | SQL Server, PostgreSQL, MySQL e SQLite | Modelagem, persistência e regras de negócio |
 
-![TypeScript](https://img.shields.io/badge/TypeScript-1233C5?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## Projetos em destaque
 
-### Back-end, Desktop e Automacao
+Uma amostra do que construo: aplicações com problemas concretos, interfaces próprias e código disponível para explorar.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛒 <a href="https://github.com/PedroHda/CarrinhoDeCompras">Carrinho de Compras</a></h3>
+      <p>App Android para planejar compras, comparar o histórico de preços e acompanhar gastos, com leitura de notas e dados locais.</p>
+      <p><code>Flutter</code> <code>Dart</code> <code>Riverpod</code> <code>SQLite</code></p>
+      <a href="https://github.com/PedroHda/CarrinhoDeCompras">Conhecer o aplicativo →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📖 <a href="https://github.com/PedroHda/MDReader">MDReader</a></h3>
+      <p>Leitor de Markdown para Windows e Android, com busca, sumário, favoritos e preferências para uma leitura mais confortável.</p>
+      <p><code>C#</code> <code>.NET</code> <code>Markdown</code> <code>WebView2</code></p>
+      <a href="https://github.com/PedroHda/MDReader">Explorar o leitor →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 <a href="https://github.com/PedroHda/Financeiro">Financeiro Pessoal</a></h3>
+      <p>Gestão de contas, receitas, despesas, cartões e metas para Windows e Android, com relatórios, backup e persistência local.</p>
+      <p><code>C#</code> <code>.NET</code> <code>Windows Forms</code> <code>SQLite</code></p>
+      <a href="https://github.com/PedroHda/Financeiro">Ver funcionalidades →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 <a href="https://github.com/PedroHda/portfolio">Portfólio</a></h3>
+      <p>Meu espaço para reunir experiência e projetos, com versões em português e inglês, páginas de detalhes e acesso aos apps.</p>
+      <p><code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>i18next</code></p>
+      <a href="https://pedrodomiciano.netlify.app">Abrir portfólio →</a>
+    </td>
+  </tr>
+</table>
 
-### Bancos de Dados
+Também estou construindo o [**RotaCerta Escolar**](https://github.com/PedroHda/ProjetoVan), um protótipo para organizar o transporte escolar, e o [**Nosso Casamento**](https://github.com/PedroHda/NossoCasamento), um app de planejamento com orçamento, convidados e cronograma.
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+**[Explorar todos os repositórios ↗](https://github.com/PedroHda?tab=repositories)**
 
-</div>
+## Experiência
 
-## GitHub
+**Mult-e Engenharia Digital · Desenvolvimento .NET**<br />
+*Dezembro de 2024 — atual*
 
-<div align="center">
-  <img width="49%" height="195px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PedroHda&theme=github_dark" alt="Resumo do GitHub de Pedro Henrique" />
-  <img width="49%" height="195px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PedroHda&theme=github_dark" alt="Linguagens por repositorio de Pedro Henrique" />
-</div>
+Atuação em APIs REST, automação e evolução de sistemas legados. Alocado na Embraer com o time KBE, desenvolvo ferramentas de apoio à engenharia com Windows Forms, CATIA V5 e API COM+. Participei da migração, dos testes e da validação de **mais de 150 ferramentas** para uma nova versão do CATIA.
 
-<div align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroHda&theme=github_dark" alt="Detalhes de contribuicoes de Pedro Henrique" />
-</div>
+**2RP Net · Desenvolvimento Full Stack**<br />
+*Agosto de 2021 — janeiro de 2024*
 
-<br>
+Trajetória de estágio a desenvolvedor júnior, com React, TypeScript, C# e SQL Server. Trabalhei na evolução de plataformas web, em melhorias de UI/UX, na correção de bugs e no atendimento de demandas de clientes, incluindo uma plataforma antifraude.
 
-<div align="center">
+## GitHub em números
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PedroHda&bg_color=0d1117&color=ffffff&line=ff0000&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <a href="https://github.com/PedroHda"><img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PedroHda&amp;theme=github_dark" alt="Estatísticas públicas do GitHub de Pedro Domiciano" /></a>
+  <a href="https://github.com/PedroHda?tab=repositories"><img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PedroHda&amp;theme=github_dark" alt="Distribuição de linguagens nos repositórios públicos de Pedro Domiciano" /></a>
+</p>
 
-</div>
+<p align="center"><sub>Cards gerados por um serviço externo a partir dos dados públicos do GitHub.</sub></p>
 
-## Contato
+---
 
-<div align="center">
+<p align="center">
+  <strong>Vamos conversar sobre o próximo projeto?</strong><br />
+  <a href="mailto:pedroh.domic@gmail.com">pedroh.domic@gmail.com</a> &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/pedro-domiciano-ab2339160/">LinkedIn</a> &nbsp; · &nbsp;
+  <a href="https://pedrodomiciano.netlify.app">Portfólio</a>
+</p>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro_domiciano/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/pedro.domiciano.7/)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedroh.domic@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-domiciano-ab2339160/)
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1233C5&height=120&section=footer"/>
+<p align="center">
+  <sub>Me encontre também no <a href="https://www.instagram.com/pedro_domiciano/">Instagram</a> e no <a href="https://www.facebook.com/pedro.domiciano.7/">Facebook</a>.</sub>
+</p>

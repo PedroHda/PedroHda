@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="470" viewBox="0 0 700 470" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">Pedro Domiciano — Desenvolvedor Full Stack</title>
+  <desc id="description">Versão para telas pequenas do banner em azul e ciano. Web, APIs e automação para engenharia.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="700" y2="470" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#102947"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="700" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="0.5" stop-color="#818CF8"/>
+      <stop offset="1" stop-color="#2DD4BF"/>
+    </linearGradient>
+    <linearGradient id="name" x1="44" y1="260" x2="560" y2="310" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8FAFC"/>
+      <stop offset="1" stop-color="#B9DEFF"/>
+    </linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#557598" fill-opacity="0.2"/>
+    </pattern>
+    <clipPath id="bounds"><rect width="700" height="470" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#bounds)">
+    <rect width="700" height="470" rx="24" fill="url(#background)"/>
+    <path d="M430 0H700V470H310Z" fill="url(#dots)"/>
+    <circle cx="674" cy="216" r="198" stroke="#38BDF8" stroke-opacity="0.1"/>
+    <circle cx="674" cy="216" r="148" stroke="#38BDF8" stroke-opacity="0.1"/>
+    <path d="M44 0H656M0 469H700" stroke="url(#accent)" stroke-width="3"/>
+    <g font-family="Segoe UI, Arial, sans-serif">
+      <rect x="44" y="32" width="54" height="40" rx="10" fill="#162A43" stroke="#2B4C6B"/>
+      <text x="71" y="59" text-anchor="middle" fill="#7DD3FC" font-family="Consolas, monospace" font-size="21" font-weight="700">P/</text>
+      <text x="114" y="59" fill="#94A3B8" font-family="Consolas, monospace" font-size="17" letter-spacing="2">PEDROHDA</text>
+      <rect x="44" y="109" width="8" height="8" rx="4" fill="#38BDF8"/>
+      <text x="66" y="120" fill="#7DD3FC" font-size="19" font-weight="600" letter-spacing="2">DESENVOLVEDOR FULL STACK</text>
+      <text x="39" y="205" fill="#F8FAFC" font-size="90" font-weight="700" letter-spacing="-3">Pedro</text>
+      <text x="39" y="295" fill="url(#name)" font-size="90" font-weight="700" letter-spacing="-3">Domiciano<tspan fill="#38BDF8">.</tspan></text>
+      <text x="44" y="345" fill="#B2C2D7" font-size="26">Web, APIs e automação</text>
+      <text x="44" y="380" fill="#B2C2D7" font-size="26">para engenharia.</text>
+      <path d="M44 426H80" stroke="#38BDF8" stroke-width="2"/>
+      <text x="96" y="432" fill="#94AFC9" font-family="Consolas, monospace" font-size="18">React · TypeScript · C# · .NET</text>
+    </g>
+  </g>
+</svg>
