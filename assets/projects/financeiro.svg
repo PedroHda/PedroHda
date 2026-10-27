@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="410" height="198" viewBox="0 0 410 198" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">Financeiro Pessoal</title><desc id="description">Contas, cartões e metas em um só lugar. Tecnologias: C#, .NET, SQLite.</desc>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#141D31"/><stop offset="1" stop-color="#0C1323"/></linearGradient><radialGradient id="glow"><stop stop-color="#34D399" stop-opacity=".16"/><stop offset="1" stop-color="#34D399" stop-opacity="0"/></radialGradient><clipPath id="bounds"><rect x="1" y="1" width="408" height="196" rx="19"/></clipPath></defs>
+  <g clip-path="url(#bounds)"><rect x="1" y="1" width="408" height="196" rx="19" fill="url(#bg)" stroke="#2B3852"/>
+    <circle cx="382" cy="30" r="160" fill="url(#glow)"/>
+    <path d="M30 1H150" stroke="#34D399" stroke-width="2"/>
+    <text x="24" y="29" fill="#34D399" font-family="Consolas,monospace" font-size="11" letter-spacing="1.4">03 / WINDOWS + ANDROID</text>
+    <path d="M374 24H385V35M385 24L373 36" stroke="#34D399" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="24" y="49" width="51" height="46" rx="12" fill="#34D399" fill-opacity=".09" stroke="#34D399" stroke-opacity=".2"/>
+    <g stroke="#34D399" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M35 61V84H65M41 77L48 70L54 74L64 63M57 63H64V70"/></g>
+    <text x="88" y="80" fill="#F1F5F9" font-family="Segoe UI,Arial,sans-serif" font-size="23" font-weight="700" letter-spacing="-.5">Financeiro Pessoal</text>
+    <text x="24" y="126" fill="#A4B4CD" font-family="Segoe UI,Arial,sans-serif" font-size="14">Contas, cartões e metas em um só lugar.</text>
+    <g fill="#34D399" font-family="Consolas,monospace" font-size="11"><rect x="24" y="151" width="36" height="25" rx="7" fill="#34D399" fill-opacity=".09" stroke="#34D399" stroke-opacity=".18"/><text x="42.0" y="168" text-anchor="middle">C#</text><rect x="68" y="151" width="50" height="25" rx="7" fill="#34D399" fill-opacity=".09" stroke="#34D399" stroke-opacity=".18"/><text x="93.0" y="168" text-anchor="middle">.NET</text><rect x="126" y="151" width="64" height="25" rx="7" fill="#34D399" fill-opacity=".09" stroke="#34D399" stroke-opacity=".18"/><text x="158.0" y="168" text-anchor="middle">SQLite</text></g>
+  </g>
+</svg>

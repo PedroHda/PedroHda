@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="410" height="198" viewBox="0 0 410 198" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">Portfólio</title><desc id="description">Um lugar para minhas ideias e projetos. Tecnologias: Next.js, React, TypeScript.</desc>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#141D31"/><stop offset="1" stop-color="#0C1323"/></linearGradient><radialGradient id="glow"><stop stop-color="#FBBF24" stop-opacity=".16"/><stop offset="1" stop-color="#FBBF24" stop-opacity="0"/></radialGradient><clipPath id="bounds"><rect x="1" y="1" width="408" height="196" rx="19"/></clipPath></defs>
+  <g clip-path="url(#bounds)"><rect x="1" y="1" width="408" height="196" rx="19" fill="url(#bg)" stroke="#2B3852"/>
+    <circle cx="382" cy="30" r="160" fill="url(#glow)"/>
+    <path d="M30 1H150" stroke="#FBBF24" stroke-width="2"/>
+    <text x="24" y="29" fill="#FBBF24" font-family="Consolas,monospace" font-size="11" letter-spacing="1.4">04 / WEB</text>
+    <path d="M374 24H385V35M385 24L373 36" stroke="#FBBF24" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="24" y="49" width="51" height="46" rx="12" fill="#FBBF24" fill-opacity=".09" stroke="#FBBF24" stroke-opacity=".2"/>
+    <g stroke="#FBBF24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="34" y="60" width="31" height="24" rx="3"/><path d="M34 67H65M40 63.5H40.1M44 63.5H44.1M45 72L41 76L45 80M54 72L58 76L54 80"/></g>
+    <text x="88" y="80" fill="#F1F5F9" font-family="Segoe UI,Arial,sans-serif" font-size="23" font-weight="700" letter-spacing="-.5">Portfólio</text>
+    <text x="24" y="126" fill="#A4B4CD" font-family="Segoe UI,Arial,sans-serif" font-size="14">Um lugar para minhas ideias e projetos.</text>
+    <g fill="#FBBF24" font-family="Consolas,monospace" font-size="11"><rect x="24" y="151" width="71" height="25" rx="7" fill="#FBBF24" fill-opacity=".09" stroke="#FBBF24" stroke-opacity=".18"/><text x="59.5" y="168" text-anchor="middle">Next.js</text><rect x="103" y="151" width="57" height="25" rx="7" fill="#FBBF24" fill-opacity=".09" stroke="#FBBF24" stroke-opacity=".18"/><text x="131.5" y="168" text-anchor="middle">React</text><rect x="168" y="151" width="92" height="25" rx="7" fill="#FBBF24" fill-opacity=".09" stroke="#FBBF24" stroke-opacity=".18"/><text x="214.0" y="168" text-anchor="middle">TypeScript</text></g>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="410" height="198" viewBox="0 0 410 198" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">MDReader</title><desc id="description">Seu Markdown. Do seu jeito. Em qualquer lugar. Tecnologias: C#, .NET, Markdown.</desc>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#141D31"/><stop offset="1" stop-color="#0C1323"/></linearGradient><radialGradient id="glow"><stop stop-color="#A78BFA" stop-opacity=".16"/><stop offset="1" stop-color="#A78BFA" stop-opacity="0"/></radialGradient><clipPath id="bounds"><rect x="1" y="1" width="408" height="196" rx="19"/></clipPath></defs>
+  <g clip-path="url(#bounds)"><rect x="1" y="1" width="408" height="196" rx="19" fill="url(#bg)" stroke="#2B3852"/>
+    <circle cx="382" cy="30" r="160" fill="url(#glow)"/>
+    <path d="M30 1H150" stroke="#A78BFA" stroke-width="2"/>
+    <text x="24" y="29" fill="#A78BFA" font-family="Consolas,monospace" font-size="11" letter-spacing="1.4">02 / WINDOWS + ANDROID</text>
+    <path d="M374 24H385V35M385 24L373 36" stroke="#A78BFA" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="24" y="49" width="51" height="46" rx="12" fill="#A78BFA" fill-opacity=".09" stroke="#A78BFA" stroke-opacity=".2"/>
+    <g stroke="#A78BFA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M34 62Q42 59 49 64Q56 59 64 62V82Q56 79 49 84Q42 79 34 82ZM49 64V84"/></g>
+    <text x="88" y="80" fill="#F1F5F9" font-family="Segoe UI,Arial,sans-serif" font-size="23" font-weight="700" letter-spacing="-.5">MDReader</text>
+    <text x="24" y="126" fill="#A4B4CD" font-family="Segoe UI,Arial,sans-serif" font-size="14">Seu Markdown. Do seu jeito. Em qualquer lugar.</text>
+    <g fill="#A78BFA" font-family="Consolas,monospace" font-size="11"><rect x="24" y="151" width="36" height="25" rx="7" fill="#A78BFA" fill-opacity=".09" stroke="#A78BFA" stroke-opacity=".18"/><text x="42.0" y="168" text-anchor="middle">C#</text><rect x="68" y="151" width="50" height="25" rx="7" fill="#A78BFA" fill-opacity=".09" stroke="#A78BFA" stroke-opacity=".18"/><text x="93.0" y="168" text-anchor="middle">.NET</text><rect x="126" y="151" width="78" height="25" rx="7" fill="#A78BFA" fill-opacity=".09" stroke="#A78BFA" stroke-opacity=".18"/><text x="165.0" y="168" text-anchor="middle">Markdown</text></g>
+  </g>
+</svg>

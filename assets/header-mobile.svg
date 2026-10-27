@@ -1,43 +1,48 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="700" height="470" viewBox="0 0 700 470" fill="none" role="img" aria-labelledby="title description">
   <title id="title">Pedro Domiciano — Desenvolvedor Full Stack</title>
-  <desc id="description">Versão para telas pequenas do banner em azul e ciano. Web, APIs e automação para engenharia.</desc>
+  <desc id="description">Interfaces com propósito. APIs que conectam. Automações que simplificam. Web, desktop e mobile.</desc>
   <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="700" y2="470" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0B1220"/>
-      <stop offset="1" stop-color="#102947"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="700" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#38BDF8"/>
-      <stop offset="0.5" stop-color="#818CF8"/>
-      <stop offset="1" stop-color="#2DD4BF"/>
-    </linearGradient>
-    <linearGradient id="name" x1="44" y1="260" x2="560" y2="310" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#F8FAFC"/>
-      <stop offset="1" stop-color="#B9DEFF"/>
-    </linearGradient>
-    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
-      <circle cx="1" cy="1" r="1" fill="#557598" fill-opacity="0.2"/>
-    </pattern>
-    <clipPath id="bounds"><rect width="700" height="470" rx="24"/></clipPath>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0B1020"/><stop offset=".5" stop-color="#13182D"/><stop offset="1" stop-color="#142640"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#A78BFA"/><stop offset=".5" stop-color="#818CF8"/><stop offset="1" stop-color="#67E8F9"/></linearGradient>
+    <linearGradient id="name"><stop stop-color="#F8FAFC"/><stop offset=".53" stop-color="#DDD6FE"/><stop offset="1" stop-color="#A5F3FC"/></linearGradient>
+    <radialGradient id="violet-glow"><stop stop-color="#8B5CF6" stop-opacity=".24"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
+    <radialGradient id="cyan-glow"><stop stop-color="#22D3EE" stop-opacity=".16"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" stroke="#8492C4" stroke-opacity=".07"/></pattern>
+    <clipPath id="clip"><rect width="700" height="470" rx="24"/></clipPath>
   </defs>
-  <g clip-path="url(#bounds)">
-    <rect width="700" height="470" rx="24" fill="url(#background)"/>
-    <path d="M430 0H700V470H310Z" fill="url(#dots)"/>
-    <circle cx="674" cy="216" r="198" stroke="#38BDF8" stroke-opacity="0.1"/>
-    <circle cx="674" cy="216" r="148" stroke="#38BDF8" stroke-opacity="0.1"/>
-    <path d="M44 0H656M0 469H700" stroke="url(#accent)" stroke-width="3"/>
-    <g font-family="Segoe UI, Arial, sans-serif">
-      <rect x="44" y="32" width="54" height="40" rx="10" fill="#162A43" stroke="#2B4C6B"/>
-      <text x="71" y="59" text-anchor="middle" fill="#7DD3FC" font-family="Consolas, monospace" font-size="21" font-weight="700">P/</text>
-      <text x="114" y="59" fill="#94A3B8" font-family="Consolas, monospace" font-size="17" letter-spacing="2">PEDROHDA</text>
-      <rect x="44" y="109" width="8" height="8" rx="4" fill="#38BDF8"/>
-      <text x="66" y="120" fill="#7DD3FC" font-size="19" font-weight="600" letter-spacing="2">DESENVOLVEDOR FULL STACK</text>
-      <text x="39" y="205" fill="#F8FAFC" font-size="90" font-weight="700" letter-spacing="-3">Pedro</text>
-      <text x="39" y="295" fill="url(#name)" font-size="90" font-weight="700" letter-spacing="-3">Domiciano<tspan fill="#38BDF8">.</tspan></text>
-      <text x="44" y="345" fill="#B2C2D7" font-size="26">Web, APIs e automação</text>
-      <text x="44" y="380" fill="#B2C2D7" font-size="26">para engenharia.</text>
-      <path d="M44 426H80" stroke="#38BDF8" stroke-width="2"/>
-      <text x="96" y="432" fill="#94AFC9" font-family="Consolas, monospace" font-size="18">React · TypeScript · C# · .NET</text>
+  <style>
+    .phrase{opacity:0;animation:phrases 15s infinite}
+    .phrase.second{animation-delay:5s}.phrase.third{animation-delay:10s}
+    .float{animation:float 5s ease-in-out infinite}.slow{animation-delay:-2.5s}
+    .flow{stroke-dasharray:10 24;animation:flow 12s linear infinite}
+    .pulse{animation:pulse 2s ease-in-out infinite}
+    @keyframes phrases{0%,26%{opacity:1}31%,100%{opacity:0}}
+    @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-12px)}}
+    @keyframes flow{to{stroke-dashoffset:-340}}
+    @keyframes pulse{0%,100%{opacity:.4}50%{opacity:1}}
+    @media(prefers-reduced-motion:reduce){.phrase,.float,.flow,.pulse{animation:none}.phrase.first{opacity:1}}
+  </style>
+  <g clip-path="url(#clip)">
+    <rect width="700" height="470" rx="24" fill="url(#bg)"/>
+    <rect width="700" height="470" fill="url(#grid)"/>
+    <ellipse cx="189" cy="226" rx="252" ry="376" fill="url(#violet-glow)"/>
+    <ellipse cx="588" cy="141" rx="224" ry="400" fill="url(#cyan-glow)"/>
+    <path d="M0 469H700" stroke="url(#accent)" stroke-width="3"/>
+    <path d="M105 1H595" stroke="url(#accent)" stroke-width="2"/>
+    <path class="flow" d="M0 450Q350 395 700 450" stroke="url(#accent)" stroke-opacity=".28"/>
+    <g font-family="Consolas,monospace" font-size="13" letter-spacing="2" fill="#6F85A7">
+      <text x="30" y="36">PEDROHDA / GITHUB</text><text x="670" y="36" text-anchor="end">&lt; / &gt;</text>
     </g>
+    <path d="M56 178L28 208L56 238M644 178L672 208L644 238" stroke="#67E8F9" stroke-opacity=".12" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="160" y="88" width="380" height="39" rx="20" fill="#A78BFA" fill-opacity=".08" stroke="#A78BFA" stroke-opacity=".3"/>
+    <circle class="pulse" cx="185" cy="107" r="4" fill="#67E8F9"/>
+    <text x="362" y="113" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="600" letter-spacing="2" fill="#DDD6FE">DESENVOLVEDOR FULL STACK</text>
+    <g text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-weight="750" letter-spacing="-3" fill="url(#name)"><text x="350" y="202" font-size="74">Pedro</text><text x="350" y="280" font-size="74">Domiciano<tspan fill="#67E8F9">.</tspan></text></g>
+    <g text-anchor="middle" font-family="Consolas,monospace" font-size="23" fill="#A5F3FC">
+      <text class="phrase first" x="350" y="345">Interfaces com propósito.</text>
+      <text class="phrase second" x="350" y="345">APIs que conectam.</text>
+      <text class="phrase third" x="350" y="345">Automações que simplificam.</text>
+    </g>
+    <text x="350" y="408" text-anchor="middle" font-family="Consolas,monospace" font-size="17" letter-spacing="2" fill="#91A6C5">WEB <tspan fill="#8B5CF6">/</tspan> DESKTOP <tspan fill="#8B5CF6">/</tspan> MOBILE</text>
   </g>
 </svg>

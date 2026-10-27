@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="112" height="108" viewBox="0 0 112 108" role="img" aria-labelledby="title">
+  <title id="title">Dart</title>
+  <defs>
+    <linearGradient id="tile-background" x2="1" y2="1"><stop stop-color="#141D31"/><stop offset="1" stop-color="#0E1425"/></linearGradient>
+    <radialGradient id="tile-glow"><stop stop-color="#00C4B3" stop-opacity=".18"/><stop offset="1" stop-color="#00C4B3" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect x="1" y="1" width="110" height="106" rx="17" fill="url(#tile-background)" stroke="#29354E"/>
+  <ellipse cx="56" cy="30" rx="50" ry="38" fill="url(#tile-glow)"/>
+
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" x="32" y="15" width="48" height="48" fill="#000000"><path fill="#00c4b3" d="M35.2 34.9l-8.3-8.3v59.7l.1 2.8c0 1.3.2 2.8.7 4.3l65.6 23.1 16.3-7.2-74.4-74.4z" /><path d="M27.7 93.4zm81.9 15.9l-16.3 7.2-65.4-23.1c1.3 4.8 4 10.1 7 13.2l21.3 21.2 47.6.1 5.8-18.6z" fill="#22d3c5" /><path fill="#0075c9" d="M1.7 65.1C-.4 67.3.7 72 4 75.5l14.7 14.8 9.2 3.3c-.3-1.5-.7-3-.7-4.3l-.1-2.8-.2-59.8m82.7 82.6l7.2-16.4-23-65.6c-1.5-.3-3-.6-4.3-.7l-2.9-.1-59.6.1" /><path d="M93.6 27.3c.2 0 .2 0 0 0 .2 0 .2 0 0 0zm16 82l17.7-5.8V54.8l-20.4-20.5c-3-3-8.3-5.8-13.2-7l23.1 65.6" fill="#00a8e1" /><path fill="#00c4b3" d="M90.5 18.2L75.7 3.5c-3.4-3.4-8-4.4-10.4-2.3L26.9 26.6h59.5l2.9.1c1.3 0 2.8.2 4.3.7l-3.1-9.2z" /></svg>
+  <text x="56" y="88" text-anchor="middle" fill="#E2E8F0" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="600">Dart</text>
+  <path d="M42 101H70" stroke="#00C4B3" stroke-width="2" stroke-opacity=".65" stroke-linecap="round"/>
+</svg>

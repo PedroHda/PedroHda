@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="112" height="108" viewBox="0 0 112 108" role="img" aria-labelledby="title">
+  <title id="title">HTML5</title>
+  <defs>
+    <linearGradient id="tile-background" x2="1" y2="1"><stop stop-color="#141D31"/><stop offset="1" stop-color="#0E1425"/></linearGradient>
+    <radialGradient id="tile-glow"><stop stop-color="#E34F26" stop-opacity=".18"/><stop offset="1" stop-color="#E34F26" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect x="1" y="1" width="110" height="106" rx="17" fill="url(#tile-background)" stroke="#29354E"/>
+  <ellipse cx="56" cy="30" rx="50" ry="38" fill="url(#tile-glow)"/>
+
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" x="32" y="15" width="48" height="48" fill="#000000"><path fill="#E44D26" d="M19.037 113.876L9.032 1.661h109.936l-10.016 112.198-45.019 12.48z" /><path fill="#F16529" d="M64 116.8l36.378-10.086 8.559-95.878H64z" /><path fill="#EBEBEB" d="M64 52.455H45.788L44.53 38.361H64V24.599H29.489l.33 3.692 3.382 37.927H64zm0 35.743l-.061.017-15.327-4.14-.979-10.975H33.816l1.928 21.609 28.193 7.826.063-.017z" /><path fill="#fff" d="M63.952 52.455v13.763h16.947l-1.597 17.849-15.35 4.143v14.319l28.215-7.82.207-2.325 3.234-36.233.335-3.696h-3.708zm0-27.856v13.762h33.244l.276-3.092.628-6.978.329-3.692z" /></svg>
+  <text x="56" y="88" text-anchor="middle" fill="#E2E8F0" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="600">HTML5</text>
+  <path d="M42 101H70" stroke="#E34F26" stroke-width="2" stroke-opacity=".65" stroke-linecap="round"/>
+</svg>
